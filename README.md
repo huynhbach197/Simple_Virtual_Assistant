@@ -2,7 +2,7 @@
 Build a simple virtual Assistant with python
 Required Library
 
-speechrecognition
-pyttsx3
-Pyaudio
-pywin32
+speechrecognition\n
+pyttsx3\n
+Pyaudio\n
+pywin32\n
